@@ -1,0 +1,8 @@
+{
+  "name": "GharGlow — Artisan Candles & Traditional Pure-Ghee Lights",
+  "description": "Handcrafted luxury candles and pure-ghee lights designed for sacred rituals, festive warmth, and intimate evenings. For the moments that make a place feel like home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

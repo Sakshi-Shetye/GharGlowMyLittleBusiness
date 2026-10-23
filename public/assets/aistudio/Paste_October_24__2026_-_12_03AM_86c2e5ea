@@ -1,0 +1,620 @@
+# MASTER PROMPT — GHARGLOW PREMIUM CANDLE & PURE-GHEE BOUTIQUE WEBSITE
+
+## 1. Your Role and Objective
+
+Act as a senior UI/UX designer, premium e-commerce website developer, creative director, and interactive 3D web experience engineer.
+
+Build a complete, visually stunning, production-quality, responsive website for my handmade candle and traditional pure-ghee product brand, **GharGlow**.
+
+The website must closely follow the visual style and layout of the reference website image I provided earlier. That reference is the primary design authority. Do not replace it with a generic e-commerce template, an ordinary minimalist website, or a completely different design.
+
+The website must combine:
+- A premium, romantic, candlelit boutique aesthetic.
+- Emotionally compelling Indian festive and traditional storytelling.
+- My real product photographs, preserving the original products accurately.
+- Separate, clearly navigable sections for candles and traditional pure-ghee products.
+- Genuine interactive 3D product viewing with 360° rotation.
+- An interactive matchstick-to-wick lighting experience.
+- Functional product cards, quantity selection, and WhatsApp ordering.
+
+The result should feel like a beautifully art-directed boutique brand rather than a basic online store.
+
+## 2. Brand Identity — Do Not Change
+
+**Brand name:** GharGlow
+
+**Primary tagline:** “For the moments that make a place feel like home.”
+
+**Supporting line:** “For the evenings that feel familiar, the traditions that bring us closer, and the people who make any place feel like home.”
+
+**Brand personality:** Warm, traditional, intimate, handcrafted, premium, elegant, nostalgic, trustworthy, and emotionally meaningful.
+
+The emotional concept is that a small flame can make any place feel like home, whether someone lives with family, stays in a hostel, lives away from their hometown, celebrates festivals away from loved ones, or simply wants a peaceful evening.
+
+Use this emotion naturally throughout the website. Visitors should feel nostalgia, comfort, warmth, belonging, and the joy of gifting before they decide to purchase.
+
+Do not make the writing overly dramatic, excessively sales-oriented, or generic AI marketing copy.
+
+## 3. Visual Design — Follow My Reference Image
+
+The supplied reference website image is the main visual blueprint. Match its overall composition, atmosphere, proportions, hierarchy, and visual richness as closely as possible.
+
+### Colour palette
+
+Use a carefully balanced combination of:
+- Warm ivory and creamy champagne backgrounds.
+- Soft blush pink and dusty rose.
+- Deep burgundy and plum.
+- Midnight navy or dark aubergine for selected buttons, footers, and atmospheric sections.
+- Golden amber candlelight.
+- Subtle sage and olive green botanical accents.
+
+Avoid excessive pure white, harsh black, neon colours, generic blue gradients, or an overly pink design.
+
+### Typography
+
+Use elegant editorial serif typography for major headings, refined readable body typography, and tasteful handwritten script for selected emotional phrases.
+
+Suggested font combinations include Cormorant Garamond or Playfair Display for headings, paired with Inter or Lato for body text, and a restrained script font for decorative notes.
+
+Maintain excellent readability and a premium hierarchy.
+
+### Backgrounds and decoration
+
+Use realistic candlelit photography, delicate floral arrangements, rose petals, subtle golden sparkles, warm light bloom, soft shadows, refined borders, rounded product-image corners, and carefully layered backgrounds.
+
+Decorations should enhance the products rather than overpower them.
+
+### Homepage hero
+
+Create a visually immersive, full-width, dark and atmospheric hero inspired directly by my reference image.
+
+The background should feature glowing candles, warm amber highlights, delicate flowers, and a luxurious evening atmosphere.
+
+Place the GharGlow wordmark and elegant navigation at the top.
+
+Hero copy:
+
+**GharGlow**
+
+*Artisan Candles & Traditional Pure-Ghee Lights*
+
+“For the moments that make a place feel like home.”
+
+“Some evenings remind us of home. Some traditions bring our families closer. And sometimes, all it takes is a little light to make anywhere feel familiar.”
+
+Buttons:
+- Explore Collection
+- Light a Candle
+
+At the bottom of the hero, display three delicate icon-led brand promises:
+- Handmade with Care
+- A Touch of Tradition
+- Thoughtful Gifting
+
+Make the hero visually striking, with generous spacing and a premium editorial composition. On mobile, retain the same atmosphere and readability.
+
+## 4. Navigation and Website Structure
+
+Use a refined, responsive navigation bar with the GharGlow logo and the following links:
+
+- Home
+- Our Collection
+- About Us
+- Why GharGlow
+- Delivery & Orders
+- Contact
+
+Include a clearly visible WhatsApp order action.
+
+Inside Our Collection, provide distinct category navigation:
+- All Products
+- Candles
+- Pure-Ghee Panti Diyas
+- Pure-Ghee Ful Vatis
+- Special Vatis
+- Lanterns & Gifts
+
+The primary shopping experience must separate candles from pure-ghee devotional products. Customers should be able to click Candles and see candle products only, or click Pure-Ghee Ful Vatis and see those products only.
+
+The All Products view can display a curated mixture of categories.
+
+Use smooth scrolling, clear active navigation states, responsive mobile navigation, and working section links.
+
+## 5. CRITICAL: Use My Exact Original Product Photographs
+
+I have already supplied actual photographs of my products in this conversation/project, including:
+
+1. Brown traditional panti-shaped pure-ghee diyas with yellow ghee and red wicks.
+2. Green star-shaped pure-ghee ful vatis.
+3. Pale-yellow square-shaped pure-ghee ful vatis.
+4. Orange/peach square-shaped pure-ghee ful vatis.
+5. Rose-shaped floating candles in their original colours and designs.
+6. Rose-scented tea-light candles.
+7. Pink Motichoor Ladoo-shaped candles.
+
+Use the actual supplied product photographs as the authoritative reference for every corresponding product.
+
+### Non-negotiable image rules
+
+- Do not redraw, regenerate, recolour, retouch, stylise, reshape, or replace my actual products.
+- Do not use AI-generated approximations of my real products.
+- Preserve the original product colours, silhouettes, proportions, textures, wick appearance, mould details, and arrangement.
+- Do not substitute generic rose candles, generic tea lights, generic clay diyas, or unrelated stock images for my products.
+- Never display a different product image under the wrong product name.
+- Do not distort product photographs to fit a card.
+- Use object-fit: contain where necessary to preserve the entire product.
+- Use the original photographs in the product cards, catalogue, galleries, and relevant product-detail sections.
+- Do not modify the actual product pixels to create an artificial lit or unlit version.
+
+If the uploaded image files are available in the project, identify and reuse them. If they are not yet accessible to the code, ask me to add them to the project assets and map each image to its corresponding product. Do not silently invent replacements.
+
+Lifestyle photography may be used in the hero, About section, gifting sections, and decorative backgrounds. However, lifestyle imagery must not misrepresent the exact design of my products.
+
+## 6. Product Catalogue and Categories
+
+Build a polished, filterable catalogue with individual product cards, product images, descriptions, available pack sizes, prices where confirmed, and working order buttons.
+
+### A. Floating and Decorative Candles
+
+**Product 1: Rose-Design Floating Candles**
+- Original appearance: use my actual rose-shaped floating candle photograph.
+- Pack: 12 pieces.
+- Price: ₹150.
+- Description: Sculpted floral candles designed to float beautifully in decorative water bowls, festive arrangements, and intimate celebrations.
+- CTA: View Product | Order on WhatsApp.
+
+**Product 2: Rose-Scented Tea-Light Candles**
+- Original appearance: use my actual pink rose-scented tea-light photograph.
+- Pack: 12 pieces.
+- Price: ₹160.
+- Description: Small rose-scented lights for peaceful evenings, festive decorations, thoughtful gifts, and cosy corners of home.
+- CTA: View Product | Order on WhatsApp.
+
+**Product 3: Pink Motichoor Ladoo Candles**
+- Original appearance: use my actual pink ladoo-shaped candle photograph.
+- Pack: 6 pieces.
+- Price: ₹140.
+- Description: Festive ladoo-inspired candles that bring the warmth and sweetness of Indian celebrations into your décor and gifting.
+- CTA: View Product | Order on WhatsApp.
+
+### B. Traditional Pure-Ghee Panti Diyas
+
+**Product 4: Traditional Pure-Ghee Panti Diya**
+- Use my actual brown panti-diya photograph if supplied.
+- Preserve the original clay-like brown exterior, golden-yellow ghee, and red wick.
+- Category: Pure-Ghee Panti Diyas.
+- Pack options: 6 or 12 pieces.
+- Price: Display “Ask for Price” until confirmed.
+- Description: A traditional light for daily prayers, evening rituals, festive celebrations, and the familiar feeling of home.
+
+Do not falsely describe the product as an earthenware diya if the photograph or actual material does not establish this.
+
+### C. Traditional Pure-Ghee Ful Vatis
+
+**Product 5: Rose-Scented Green Pure-Ghee Ful Vatis**
+- Use my exact green star-shaped product photograph.
+- Preserve the mint-green colour and original star silhouette.
+- Pack options: 30 or 50 pieces.
+- Price: Ask for Price.
+- Description: Floral-inspired ful vatis that bring a gentle rose fragrance and a colourful touch to traditional rituals.
+
+**Product 6: Kewra-Scented Pure-Ghee Ful Vatis**
+- Use my exact pale-yellow square-shaped product photograph.
+- Preserve the original pale-yellow colour and square mould shape.
+- Pack options: 30 or 50 pieces.
+- Price: Ask for Price.
+- Description: Delicately scented ful vatis for traditional rituals and peaceful festive evenings.
+
+**Product 7: Chandan-Scented Pure-Ghee Ful Vatis**
+- Use my exact orange/peach square-shaped product photograph.
+- Preserve the actual orange/peach colour, square silhouette, and original wick.
+- Pack options: 30 or 50 pieces.
+- Price: Ask for Price.
+- Description: Sandalwood-inspired traditional lights for a warm, grounded, devotional atmosphere.
+
+**Product 8: Mixed Rose, Kewra and Chandan Ful Vatis**
+- Display only if a genuine mixed assortment can be offered.
+- Pack: 36 pieces, subject to confirmation.
+- Price: Ask for Price.
+- Description: A curated assortment featuring the three fragrance varieties.
+- Use real supplied images of the individual varieties rather than inventing a mixed-product photograph.
+
+**Product 9: Classic Pure-Ghee Ful Vatis**
+- Category: Pure-Ghee Ful Vatis.
+- Pack options: 50 or 100 pieces.
+- Price: Ask for Price.
+- Use a photograph of the actual product if available. Otherwise mark the product image as pending rather than misrepresenting another product.
+
+**Product 10: Multicolour Pure-Ghee Tea Lights**
+- Category: Pure-Ghee Ful Vatis.
+- Pack options: 12 or 24 pieces.
+- Price: Ask for Price.
+- Only display as an actual available product after the product and its photograph have been confirmed.
+
+### D. Special Vatis
+
+**Product 11: Kapoor Ful Vatis**
+- Pack options: 30 or 50 pieces.
+- Price: Ask for Price.
+- Only describe camphor content, burning characteristics, or other ingredients if confirmed.
+
+**Product 12: Bhimsen Kapoor Ful Vatis**
+- Pack options: 25 or 50 pieces.
+- Price: Ask for Price.
+- Clearly distinguish it from regular Kapoor Ful Vatis only when the actual formulation is confirmed.
+
+### E. Lanterns and Gifts
+
+**Product 13: Small Artisanal Lantern**
+- Retail price: ₹285 per lantern.
+- Bulk price: ₹180 per lantern for qualifying bulk orders.
+- Display bulk eligibility as 10 or more pieces, subject to confirmation.
+- Use an actual photograph if available.
+
+**Product 14: Pink-and-Golden Flower Lantern**
+- Retail price: ₹379 per lantern.
+- Bulk price: ₹210 per lantern for qualifying bulk orders.
+- Display bulk eligibility as 10 or more pieces, subject to confirmation.
+- Preserve the actual lantern design if its photograph is supplied.
+
+### Product pricing rules
+
+Never invent a price for my existing products when a confirmed price is available.
+
+For products without a confirmed price, show “Ask for Price” and make the WhatsApp order button available.
+
+If you introduce optional new concepts such as jar candles, label them “Coming Soon” or “Concept Collection” unless I confirm they are actually available. Do not present hypothetical products as confirmed inventory.
+
+Use ₹ consistently for prices and display pack quantities clearly.
+
+## 7. Signature Interactive 3D Product Studio
+
+This is one of the most important features of the entire website.
+
+Create a dedicated, beautifully designed, interactive product-viewing experience inspired by premium online product configurators.
+
+It must not be a static 3D-looking picture, a rotating 2D image carousel presented as 3D, or a button that does nothing.
+
+### 3D viewing requirements
+
+Each supported product should have a real, rotatable 3D model.
+
+Customers should be able to:
+- Drag to rotate the model horizontally through 360°.
+- Inspect front, side, rear, elevated, and top-down views.
+- Zoom in and out.
+- Use touch gestures on mobile.
+- Reset the camera to its default view.
+- Switch between an unlit and a lit state.
+- Inspect the wick position and product silhouette closely.
+
+Provide a dedicated product selector so visitors can switch between:
+- Traditional Pure-Ghee Panti Diya
+- Rose-Design Floating Candles
+- Pink Motichoor Ladoo Candles
+- Rose-Scented Tea-Light Candles
+- Green Rose Pure-Ghee Ful Vatis
+- Pale-Yellow Kewra Pure-Ghee Ful Vatis
+- Orange/Peach Chandan Pure-Ghee Ful Vatis
+
+When a customer selects a product, load the corresponding 3D model and its correct materials, shape, colour, and wick configuration.
+
+### Absolute 3D accuracy requirement
+
+My actual photographs are the source of truth.
+
+Do not create one generic candle model and recolour it to represent all seven products.
+
+The 3D geometry must represent the actual silhouette of the selected product. A rose-shaped candle must have sculpted rose petals, a ladoo candle must have its correct rounded textured form, star-shaped vatis must have the star silhouette, and square-shaped vatis must retain their square mould shape.
+
+The panti diya must have its correct bowl-like silhouette and actual wick placement.
+
+Preserve the correct wick position, size, material appearance, and colour as far as the source photographs allow.
+
+Do not claim that a model is a verified, 100%-accurate digital twin when its geometry has only been approximated from photographs.
+
+### Important implementation truth
+
+A single photograph cannot reliably establish every hidden surface and exact physical dimension of a product.
+
+Build the 3D system so that accurate product-specific models can be supplied or refined from multiple-angle photographs or photogrammetry scans. Do not pretend that ordinary photographs have automatically produced a verified 3D scan.
+
+If accurate 3D assets are not available, create a clearly labelled provisional model for testing and make it easy to replace with a verified model. Keep my original photographs visible alongside it as the authoritative product reference.
+
+The website must remain usable while models load. Provide loading indicators, graceful fallbacks, and mobile-friendly performance.
+
+## 8. Interactive Matchstick Lighting Experience
+
+Create an immersive, tactile interaction called:
+
+**“Light a Candle with Matchstick”**
+
+Supporting heading:
+
+“Experience the Sacred Glow.”
+
+Supporting copy:
+
+“Bring a little warmth to the moment. Drag the match towards the wick and watch the glow come alive.”
+
+### Interaction behaviour
+
+1. Show the selected 3D product in an unlit state.
+2. Display an interactive matchstick with a small visible flame.
+3. Let the customer drag the matchstick using the mouse or touch.
+4. The matchstick must follow the pointer or touch position smoothly.
+5. Detect when the burning tip approaches the actual wick tip of the selected 3D model.
+6. Only when the matchstick touches or sufficiently approaches the wick should the candle transition to its lit state.
+7. Animate the wick igniting, followed by a realistic flame and warm illumination on the product and surrounding scene.
+8. Add subtle warm light bloom, gentle flame movement, soft reflections, and a restrained halo.
+9. Let the customer extinguish or relight the candle with a clearly labelled control.
+10. Provide a reset interaction to return to the unlit state.
+
+The matchstick flame and candle flame should have distinct appearances.
+
+### Technical requirements
+
+Implement this as real interactive functionality using pointer events, touch events, and a proper 3D scene.
+
+Use React Three Fiber with Three.js, or an equivalent genuine WebGL-based solution, if compatible with the existing project.
+
+The matchstick should move in relation to the actual 3D scene. The wick ignition detection should use the correct model-space wick position or an equivalent reliable hit-testing approach.
+
+The candle should not light when the user clicks an unrelated area of the screen.
+
+When the selected product changes, update the model, wick position, lighting configuration, and ignition target accordingly.
+
+The interaction must work with keyboard-accessible controls and on touch devices. Include a clearly visible alternative “Light Candle” button for accessibility.
+
+For floating candles and shaped candles, position the wick according to the actual product model. For ful vatis and panti diyas, align the ignition point with the genuine wick location.
+
+The lit and unlit states must preserve the original product's colour and shape. Lighting changes may affect illumination and shadows, but must not recolour or redesign the underlying product.
+
+## 9. Product Cards and Product Detail Pages
+
+Follow the reference website's elegant collection-card layout.
+
+Each card should include:
+- The exact product photograph.
+- Product name.
+- Category label.
+- Pack quantity.
+- Confirmed price or “Ask for Price”.
+- A favourite icon where appropriate.
+- A View Product button.
+- An Order on WhatsApp button.
+- A 3D View option when an appropriate model is available.
+
+Use subtle hover effects, refined shadows, smooth transitions, rounded image corners, and carefully controlled spacing.
+
+The product-detail page should feature:
+- A large product photograph.
+- A thumbnail gallery using genuine photographs.
+- Product name, description, pack options, and price.
+- The interactive 3D viewer.
+- The matchstick lighting experience.
+- Quantity selector.
+- Order on WhatsApp button.
+- Related products from the same or complementary categories.
+
+When a product is selected, every displayed detail must correspond to that product.
+
+Do not make the entire catalogue depend on a single generic product-detail template with mismatched images.
+
+## 10. Home and Emotional Storytelling Sections
+
+### A. Featured Collection
+
+Show a curated selection of my real products with attractive cards and clear category navigation.
+
+### B. The Feeling of Home
+
+Heading:
+
+“Somewhere, a Little Light Feels Like Home.”
+
+Copy:
+
+“For the student missing home after a long day. For the family gathering around familiar traditions. For the quiet evenings when a familiar fragrance brings back a thousand memories. GharGlow celebrates the little lights that make ordinary moments feel special.”
+
+Use warm lifestyle photography, delicate floral accents, and a visually rich layout inspired by the supplied reference.
+
+### C. About GharGlow
+
+Heading:
+
+“More Than a Little Light — A Feeling of Home.”
+
+Copy:
+
+“GharGlow brings together the beauty of handcrafted candles and the warmth of traditional Indian lighting rituals. Inspired by familiar fragrances, meaningful celebrations, and the comfort of home, our collection is created for moments worth remembering.”
+
+“From delicate rose-shaped candles to traditional pure-ghee ful vatis and panti diyas, every variety has its own place in the rituals, celebrations, and everyday moments we cherish.”
+
+Do not invent historical claims, artisan credentials, ingredient certifications, or manufacturing processes that have not been confirmed.
+
+### D. Why Choose GharGlow
+
+Use a visually appealing four-column section on desktop and a responsive layout on mobile.
+
+**Handmade with Care**
+“Thoughtfully prepared products for meaningful everyday moments and celebrations.”
+
+**Distinctive Designs**
+“From floral candle shapes to traditional ghee-lighting varieties, find something that feels personal.”
+
+**A Touch of Tradition**
+“Lighting inspired by familiar Indian rituals, festive gatherings, and the comfort of home.”
+
+**Thoughtful Gifting**
+“Little lights for housewarmings, festive celebrations, weddings, and people you hold close.”
+
+Only make claims about ingredients, purity, fragrance, sustainability, or production methods that are accurate and verified.
+
+### E. Lifestyle Showcase
+
+Create an atmospheric image section with the heading:
+
+“The Little Rituals That Bring Us Closer.”
+
+Use elegant lifestyle imagery, floral compositions, soft candlelight, and a short emotional line.
+
+### F. Delivery & Orders
+
+Create a separate, attractive service section showing:
+
+- Local delivery, where available.
+- Pickup by arrangement.
+- Courier dispatch, where available.
+
+Explain that delivery availability, costs, packaging, and dispatch timelines are confirmed directly before an order is finalised.
+
+Do not claim real-time tracking or guaranteed delivery unless those services actually exist.
+
+### G. How to Order
+
+Display three simple illustrated steps:
+
+01 — Explore Your Favourites
+
+Browse candles, traditional pure-ghee products, and gift-worthy varieties.
+
+02 — Message Us on WhatsApp
+
+Share the product name, pack size, quantity, and any custom requirements.
+
+03 — Confirm Your Order
+
+Confirm availability, price, delivery charges, payment, and dispatch arrangements directly.
+
+### H. Contact
+
+Create an elegant contact section with:
+- WhatsApp.
+- Instagram.
+- Email.
+- Mumbai, Maharashtra, if appropriate for the business.
+
+Provide a simple inquiry form with name, contact number, product category, product name, quantity, and message.
+
+On submission, validate the form and prepare a WhatsApp message containing the submitted information.
+
+Use editable configuration values for the actual WhatsApp number, Instagram handle, email address, and other contact details. Do not invent verified contact details or pretend an inquiry has been sent when no submission has occurred.
+
+### I. Footer
+
+Use a deep plum or midnight-aubergine footer inspired by the reference website.
+
+Include the GharGlow wordmark, tagline, section navigation, selected product links, contact options, and copyright notice.
+
+## 11. Functional WhatsApp Ordering
+
+Every Order on WhatsApp button must work.
+
+Create a single central configuration for the WhatsApp phone number so I can replace it later without searching throughout the codebase.
+
+Use a valid international-format phone number without spaces or punctuation in the WhatsApp URL.
+
+If my number has not been configured, show an editable placeholder in the code and make the button clearly indicate that setup is required. Do not create a fake contact number.
+
+When a customer selects a product and quantity, generate a prefilled WhatsApp message containing:
+- GharGlow.
+- Product name.
+- Category.
+- Pack size.
+- Quantity.
+- Displayed price or price enquiry.
+- Any selected preferences.
+
+Use a properly URL-encoded WhatsApp message and open the official WhatsApp chat link.
+
+Product-specific order buttons must always pass the correct product information.
+
+## 12. Responsive Design, Accessibility and Performance
+
+The complete website must work well on desktop, laptop, tablet, and mobile.
+
+Requirements:
+- Responsive navigation.
+- Well-proportioned product cards.
+- Consistent typography and spacing.
+- Accessible colour contrast.
+- Keyboard-accessible buttons and controls.
+- Visible focus indicators.
+- Alternative text for product photographs.
+- Touch-friendly 3D interactions.
+- Optimised images and lazy loading where appropriate.
+- Efficient loading of 3D assets.
+- Graceful fallbacks for unsupported WebGL devices.
+- No horizontal overflow.
+- No broken images or placeholder links.
+- No non-functional buttons.
+- No console errors.
+
+Maintain the premium visual style at all viewport sizes. Do not remove the important visual identity from mobile just to simplify the layout.
+
+## 13. Technical Implementation Instructions
+
+First inspect the existing project structure, installed dependencies, routing, and current application code.
+
+If this is an existing project, modify it in place. Preserve the existing repository, configuration, assets, working functionality, and deployment setup.
+
+Do not create a separate unrelated application or a new GitHub repository.
+
+Use the framework already present where possible. If the project uses React, integrate the components into the existing React structure. Use TypeScript if it is already configured.
+
+For 3D, use React Three Fiber and Three.js when compatible with the project. Use appropriate geometry, materials, lighting, pointer interactions, and camera controls.
+
+Organise the implementation into reusable components such as:
+- Header and Navigation.
+- Hero.
+- Product Catalogue.
+- Product Card.
+- Product Detail.
+- Product 3D Viewer.
+- Matchstick Lighting Interaction.
+- About.
+- Why Choose Us.
+- Delivery and Orders.
+- Contact Form.
+- Footer.
+
+Maintain a central product data file containing product names, categories, image paths, prices, pack options, descriptions, and 3D asset references.
+
+Use a separate configuration file for contact details and order settings.
+
+Do not replace existing working files unnecessarily. Do not delete my uploaded assets or overwrite my original product photographs.
+
+If a required dependency needs to be installed, configure it properly and ensure the project builds successfully.
+
+## 14. Final Quality Requirements
+
+Before declaring the work complete:
+
+1. Confirm that the website visually follows my original reference.
+2. Confirm that GharGlow and its exact tagline appear consistently.
+3. Check that all available original product photographs are used correctly.
+4. Check that candle and pure-ghee categories can be explored separately.
+5. Check that every product has the correct name, image, price status, and pack information.
+6. Check that the 3D viewer supports genuine rotation and inspection.
+7. Check that the matchstick interaction triggers lighting at the correct wick position.
+8. Check that the lit and unlit states preserve the underlying product design.
+9. Check that WhatsApp buttons generate the correct product-specific message.
+10. Check that the website works on mobile and desktop.
+11. Check for missing assets, non-functional controls, console errors, and build errors.
+12. Clearly identify any features that require additional product photographs, verified 3D models, contact details, or other missing inputs.
+
+Do not claim a feature is implemented merely because its interface is visible. Test its actual behaviour.
+
+## FINAL CREATIVE DIRECTION
+
+The final website must look and feel like the premium candlelit boutique shown in my original reference image: rich atmospheric photography, elegant cream and blush sections, dark glowing hero imagery, beautiful floral product cards, sophisticated typography, refined navigation, and a luxurious, emotionally inviting experience.
+
+The brand identity is GharGlow. The tagline is “For the moments that make a place feel like home.”
+
+Keep my actual products authentic. Keep candles and pure-ghee products properly organised. Make the interactive 3D viewer and matchstick lighting experience genuine functionality, not decoration.
+
+The final impression should be:
+
+**A little tradition. A little warmth. A feeling of home — wherever you are.**
